@@ -2,6 +2,7 @@
 
 namespace RecursiveConsoleApp
 {
+    //https://bitimek.com/c-recursive-fonksiyonlar-faktoriyel-hesaplama-ornegi/
     class Program
     {
         static void Main(string[] args)
